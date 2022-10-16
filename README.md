@@ -23,6 +23,7 @@
 
 <br clear="all" />
 
-## 🦖 Pins:
+
+### 🦖 Pins:
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=fit&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/fit)

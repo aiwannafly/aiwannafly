@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java Spring
 - 🤓 GPA: **5.0/5.0**
 
-### ✨ Links:
+### 🐸 Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/aiwannafly)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](mailto:a.ivanov15@g.nsu.ru)
@@ -22,3 +22,7 @@
 </a>
 
 <br clear="all" />
+
+## 🦖 Pins:
+
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=fit&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/fit)

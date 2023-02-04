@@ -3,7 +3,7 @@
 ### 🤠 About me:
 
 - 👨‍💻 20 y.o. CS Student aiming to make this world better
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning Java Spring
 - 🤓 GPA: **5.0/5.0**
 - 🏅 Winner of ONTI 2020 intelligent energy systems profile competition
 
@@ -27,5 +27,6 @@
 
 ### 🦖 Pins:
 [![Torrent Client](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=torrent-client&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/torrent-client)
+[![HTTP Proxy](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=http_proxy&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/http_proxy)
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=fit&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/fit)
 [![SNAKE ONLINE](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=snake_online&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/snake_online)

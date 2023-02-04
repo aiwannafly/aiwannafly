@@ -26,6 +26,6 @@
 
 
 ### 🦖 Pins:
-
+[![Torrent Client](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=torrent-client&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/torrent-client)
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=fit&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/fit)
-[![SNAKE ONLINE](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=snake_online&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/snake_online)
+[![SNAKE ONLINE](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=snake_online&theme=gotham&cache_seconds=2)](https://github.com/aiwannafly/snake_online)

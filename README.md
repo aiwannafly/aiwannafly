@@ -27,6 +27,7 @@
 
 ### 🦖 Pins:
 [![Torrent Client](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=torrent-client&cache_seconds=2000)](https://github.com/aiwannafly/torrent-client)
+[![Raytracing App](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=raytracing-app&cache_seconds=2000)](https://github.com/aiwannafly/raytracing-app)
 [![Tourist REST](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=tourist-rest-service&cache_seconds=2000)](https://github.com/aiwannafly/tourist-rest-service)
 [![Deep learning](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=neural_networks_tasks&cache_seconds=2000)](https://github.com/aiwannafly/neural_networks_tasks)
 [![HTTP Proxy](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=http_proxy&cache_seconds=2000)](https://github.com/aiwannafly/http_proxy)

@@ -27,6 +27,7 @@
 
 ### 🦖 Pins:
 [![Torrent Client](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=torrent-client&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/torrent-client)
+[![Tourist REST](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=tourist-rest-service&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/tourist-rest-service)
 [![HTTP Proxy](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=http_proxy&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/http_proxy)
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=fit&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/fit)
 [![SNAKE ONLINE](https://github-readme-stats.vercel.app/api/pin/?username=aiwannafly&repo=snake_online&theme=gotham&cache_seconds=2000)](https://github.com/aiwannafly/snake_online)

@@ -2,7 +2,7 @@
 
 ### 🤠 About me:
 
-- 👨‍💻 20 y.o. CS Student aiming to make this world better
+- 👨‍💻 21 y.o. CS Student aiming to make this world better
 - 🌱 I’m currently learning PyTorch
 - 😎 GPA: **5.0/5.0**
 - 🏅 Winner of ONTI 2020 intelligent energy systems profile competition
